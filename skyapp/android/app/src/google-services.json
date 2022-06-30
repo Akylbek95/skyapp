@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502914987577",
+    "project_id": "skynet-1e628",
+    "storage_bucket": "skynet-1e628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502914987577:android:125e3ef72a61ad48dcbfe8",
+        "android_client_info": {
+          "package_name": "com.example.sky_net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502914987577-1nh21jvdmjsgepeasjcas4bgkdedeg16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0fccJhJ1cckKG4XPzfDKTGOJAfnIsXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502914987577-1nh21jvdmjsgepeasjcas4bgkdedeg16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
